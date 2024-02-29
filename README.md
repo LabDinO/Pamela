@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SARC**
 
-- 🌱 I’m currently learning **Julia, LaTeX, quantum phisics and downscaling**
+- 🌱 I’m currently learning **Julia, LaTeX, quantum physics and downscaling**
 
 - 💬 Ask me about **philosophy**
 
