@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pamela Costa</h1>
+<h1 align="center">Hay yoo 👋, I'm Pamela Costa</h1>
 <h3 align="center">Undergraduate Student in Oceanography</h3>
 
 - 🔭 I’m currently working on **SARC**
